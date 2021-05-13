@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "191883989578",
+    "project_id": "brew-manager-10106",
+    "storage_bucket": "brew-manager-10106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191883989578:android:213d88ed74beefc3b14cb3",
+        "android_client_info": {
+          "package_name": "com.brewmanager.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191883989578-ihur6f0m52g3038v5ubv15u18mk9h3a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlUXvCc-RLqRhrVWhx6vo6o4mrrhLRyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191883989578-ihur6f0m52g3038v5ubv15u18mk9h3a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191883989578:android:c0fc01cd5e29963eb14cb3",
+        "android_client_info": {
+          "package_name": "com.example.brew_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191883989578-ihur6f0m52g3038v5ubv15u18mk9h3a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlUXvCc-RLqRhrVWhx6vo6o4mrrhLRyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191883989578-ihur6f0m52g3038v5ubv15u18mk9h3a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
